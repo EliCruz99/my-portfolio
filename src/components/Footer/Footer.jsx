@@ -3,7 +3,7 @@ import React from 'react'
 export default function Footer() {
   return (
     <footer>
-      Footer
+      <h1 className="text-purple-600">Footer</h1>
     </footer>
   )
 }

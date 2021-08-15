@@ -4,7 +4,7 @@ import Nav from '../Navbar/Nav'
 
 export default function Layout(props) {
   return (
-    <div>
+    <div className="bg-mainBackground bg-cover bg-no-repeat">
       <Nav />
       {props.children}
       <Footer/>
