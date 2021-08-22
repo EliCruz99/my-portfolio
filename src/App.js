@@ -4,7 +4,6 @@ import AboutMe from './screens/AboutMe/AboutMe';
 import Contact from './screens/ContactMe/Contact';
 import Landing from './screens/LandingScreen/Landing';
 import Project from './screens/Projects/Project';
-import Tech from './screens/TechStack/Tech';
 
 function App() {
   return (
@@ -12,7 +11,6 @@ function App() {
       <Layout>
         <Landing />
         <AboutMe />
-        <Tech />
         <Project />
         <Contact />
       </Layout>
