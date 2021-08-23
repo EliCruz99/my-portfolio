@@ -8,7 +8,8 @@ module.exports = {
       fontFamily: {
         'sans': [...defaultTheme.fontFamily.sans],
         'press-start': ['"Press Start 2P"'],
-        'rampart-one': ['"Rampart One"']
+        'rampart-one': ['"Rampart One"'],
+        'raleway' : ['Raleway']
       }
     },
   },
